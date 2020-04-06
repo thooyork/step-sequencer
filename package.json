@@ -1,5 +1,5 @@
 {
-  "name": "vueboilerplate",
+  "name": "stepsequencer",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,25 +9,22 @@
   },
   "dependencies": {
     "copy-webpack-plugin": "^5.0.5",
-    "core-js": "^2.6.5",
-    "open-simplex-noise": "^1.6.0",
+    "core-js": "^3.6.4",
     "terser-webpack-plugin": "^2.2.2",
-    "three": "^0.105.2",
-    "three-orbitcontrols": "^2.102.1",
     "tone": "^13.4.9",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vue2-touch-events": "^2.0.0"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.8.0",
-    "@vue/cli-plugin-eslint": "^3.8.0",
-    "@vue/cli-service": "^3.8.0",
+    "@vue/cli-plugin-babel": "^4.3.0",
+    "@vue/cli-plugin-eslint": "^4.3.0",
+    "@vue/cli-service": "^4.3.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
-    "node-sass": "^4.9.0",
-    "sass-loader": "^7.1.0",
+    "eslint-plugin-vue": "^5.2.3",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^7.3.1",
     "vue-template-compiler": "^2.6.10"
   },
   "eslintConfig": {
